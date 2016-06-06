@@ -1,0 +1,21 @@
+body {
+  background: radial-gradient(ellipse at center,#fff 0,#d3eff8 100%);
+}
+
+.menu-text {
+  padding: 0.7rem 0;
+  color: #fff;
+}
+
+.top-bar {
+  background: #22acdb;
+  margin-bottom: 2em;
+}
+
+.top-bar ul {
+  background-color: transparent;
+}
+
+.chatty {
+  font-weight: bold;
+}

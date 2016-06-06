@@ -1,0 +1,23 @@
+{
+  "name": "chatterbox",
+  "version": "1.0.0",
+  "description": "simple chat app with React",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Adam Clark",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-core": "5.8.*",
+    "babel-loader": "5.3.*",
+    "webpack": "^1.13.1"
+  },
+  "dependencies": {
+    "react": "^15.0.0",
+    "react-dom": "^15.0.0",
+    "express": "*",
+    "socket.io": "*",
+    "socket.io-client": "*"
+  }
+}
